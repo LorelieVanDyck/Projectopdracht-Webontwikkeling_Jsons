@@ -9,7 +9,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-001_Tacos-al-Pastor.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["bevat vlees", "gegrild", "streetfood klassieker", "snelle hap"],
+    "tags": ["Bevat vlees", "Gegrild", "Streetfood klassieker", "Snelle hap"],
     "vendor": {
       "id": "VEN-MX-001",
       "name": "El Trompo Rojo",
@@ -29,7 +29,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-002_Pad-Thai.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["uit de wok", "pinda’s", "zoetzuur", "glutenvrije optie"],
+    "tags": ["Uit de wok", "Pinda’s", "Zoetzuur", "Glutenvrije optie"],
     "vendor": {
       "id": "VEN-TH-001",
       "name": "Bangkok Wok Express",
@@ -49,7 +49,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-003_Banh-Mi.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["sandwich", "bevat vlees", "verse kruiden", "krokant"],
+    "tags": ["Sandwich", "Bevat vlees", "Verse kruiden", "Krokant"],
     "vendor": {
       "id": "VEN-VN-001",
       "name": "Saigon Bánh Mì Corner",
@@ -69,7 +69,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-004_Liege-Waffle.jpeg?raw=true",
     "category": "Zoet",
     "priceTier": "€",
-    "tags": ["vegetarisch", "gekaramelliseerde suiker", "dessert", "handheld"],
+    "tags": ["Vegetarisch", "Gekaramelliseerde suiker", "Dessert", "Handheld"],
     "vendor": {
       "id": "VEN-BE-001",
       "name": "Waffle Wagon Liège",
@@ -89,7 +89,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-005_Falafel-Wrap.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["vegan", "gefrituurd", "tahini", "eiwitrijk"],
+    "tags": ["Vegan", "Gefrituurd", "Tahini", "Eiwitrijk"],
     "vendor": {
       "id": "VEN-LB-001",
       "name": "Beirut Falafel House",
@@ -109,7 +109,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-006_Jerk-Chicken-Skewers.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["gegrild", "pittig", "bevat vlees", "rokerig"],
+    "tags": ["Gegrild", "Pittig", "Bevat vlees", "Rokerig"],
     "vendor": {
       "id": "VEN-JM-001",
       "name": "Kingston Jerk Stop",
@@ -129,7 +129,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-007_Takoyaki.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["zeevruchten", "snack", "saus", "umami"],
+    "tags": ["Zeevruchten", "Snack", "Saus", "Umami"],
     "vendor": {
       "id": "VEN-JP-001",
       "name": "Osaka Octopus Ball Stand",
@@ -150,7 +150,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-008_Belgian-Fries.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["vegetarisch", "krokant", "streetfood klassieker", "saus"],
+    "tags": ["Vegetarisch", "Krokant", "Streetfood klassieker", "Saus"],
     "vendor": {
       "id": "VEN-BE-002",
       "name": "Brussels Frites Cart",
@@ -171,7 +171,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-009_Arepas.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["glutenvrij", "maïs", "handheld", "customizable"],
+    "tags": ["Glutenvrij", "Maïs", "Handheld", "Customizable"],
     "vendor": {
       "id": "VEN-VE-001",
       "name": "Caracas Arepa Grill",
@@ -191,7 +191,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-010_Mango-Sticky-Rice.jpeg?raw=true",
     "category": "Zoet",
     "priceTier": "€",
-    "tags": ["vegetarisch", "kokosnoot", "tropical", "dessert"],
+    "tags": ["Vegetarisch", "Kokosnoot", "Tropisch", "Dessert"],
     "vendor": {
       "id": "VEN-TH-002",
       "name": "Chatuchak Sweet Corner",
@@ -211,7 +211,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-011_Balut.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["streetfood-uitdaging", "traditioneel", "night-market", "eiwitrijk"],
+    "tags": ["Streetfood-uitdaging", "Traditioneel", "Night-market", "Eiwitrijk"],
     "vendor": {
       "id": "VEN-PH-002",
       "name": "Cebu Street Grill",
@@ -231,7 +231,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-012_Chicken-Adobo.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["bevat vlees", "knoflook", "comfortfood", "past goed bij rijst"],
+    "tags": ["Bevat vlees", "Knoflook", "Comfortfood", "Past goed bij rijst"],
     "vendor": {
       "id": "VEN-PH-001",
       "name": "Manila Night Market Eats",
@@ -251,7 +251,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-013_Sinigang.jpeg?raw=true",
     "category": "Zuur",
     "priceTier": "€€",
-    "tags": ["zuur", "soep", "tamarinde", "comfortfood"],
+    "tags": ["Zuur", "Soep", "Tamarinde", "Comfortfood"],
     "vendor": {
       "id": "VEN-PH-001",
       "name": "Manila Night Market Eats",
@@ -271,7 +271,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-014_Halo-Halo.jpeg?raw=true",
     "category": "Zoet",
     "priceTier": "€",
-    "tags": ["dessert", "verfrissend", "kleurrijk", "zomer"],
+    "tags": ["Dessert", "Verfrissend", "Kleurrijk", "Zomer"],
     "vendor": {
       "id": "VEN-PH-002",
       "name": "Cebu Street Grill",
@@ -291,7 +291,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-015_Bibimbap.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["rice-bowl", "groenten", "gochujang", "comfortfood"],
+    "tags": ["Rice-bowl", "Groenten", "Gochujang", "Comfortfood"],
     "vendor": {
       "id": "VEN-KR-001",
       "name": "Seoul Bowl Station",
@@ -312,7 +312,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-016_Street-Tacos.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["bevat vlees", "handheld", "salsa", "snelle hap"],
+    "tags": ["Bevat vlees", "Handheld", "Salsa", "Snelle hap"],
     "vendor": {
       "id": "VEN-MX-002",
       "name": "Mercado Taquería Norte",
@@ -332,7 +332,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-017_Pho-Street-Bowl.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["soep", "noedels", "kruiden", "comfortfood"],
+    "tags": ["Soep", "Noedels", "Kruiden", "Comfortfood"],
     "vendor": {
       "id": "VEN-VN-002",
       "name": "Hanoi Street Bowl",
@@ -352,7 +352,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-018_Tahini-Mezze-Plate.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€",
-    "tags": ["vegetarische optie", "mezze", "dip", "om te delen"],
+    "tags": ["Vegetarische optie", "Mezze", "Dip", "Om te delen"],
     "vendor": {
       "id": "VEN-LB-002",
       "name": "Tripoli Tahini Stand",
@@ -372,7 +372,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-019_Spiced-Skewers.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["gegrild", "gekruid", "streetfoodsnack", "bevat vlees"],
+    "tags": ["Gegrild", "Gekruid", "Streetfoodsnack", "Bevat vlees"],
     "vendor": {
       "id": "VEN-JM-002",
       "name": "Montego Bay Grill Shack",
@@ -392,7 +392,7 @@
     "imageUrl": "https://github.com/LorelieVanDyck/ProjectOpdracht-Webontwikkeling_Jsons/blob/main/assets/foods/FOOD-020_Korean-Street-Bowl.jpeg?raw=true",
     "category": "Hartig",
     "priceTier": "€€",
-    "tags": ["rice-bowl", "marktsnack", "comfortfood", "saus"],
+    "tags": ["Rice-bowl", "Marktsnack", "Comfortfood", "Saus"],
     "vendor": {
       "id": "VEN-KR-002",
       "name": "Busan Market Bites",
